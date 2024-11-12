@@ -1,0 +1,49 @@
+Server
+----------
+Login,
+View All Users,
+Add Category,
+View Attack Type Hash code,
+View All Datasets,
+View All Attacks By Chain,
+View Attacks Size Results,
+View Education Level Size Results,
+View Institution Size Results.
+
+
+End User
+-----------
+
+Register and Login,
+View Your Profile, 
+Upload Datasets, 
+View All Datasets, 
+Find Attack Type.
+
+
+Members
+---------
+
+Education_Level,
+Institution_Type,
+Attack_Date,
+Sex,
+Age,
+Device,
+IT_ Student,
+Location,
+Internet_ Type,
+Network_ Type,
+Attack_ Found.
+
+
+
+
+
+
+
+
+
+
+
+
